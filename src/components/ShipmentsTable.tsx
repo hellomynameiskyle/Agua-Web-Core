@@ -2,6 +2,7 @@ import { Shipment } from '../types';
 import { format } from 'date-fns';
 
 interface ShipmentsTableProps {
+  // TO-DO: create interface for Shipments search
   shipments: Shipment[];
   onSort?: (key: keyof Shipment) => void;
 }
