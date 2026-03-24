@@ -10,7 +10,7 @@ export function ShipmentsTable({ shipments }: ShipmentsTableProps) {
   return (
     <div className="card table-card">
       <div className="table-header">
-        <h3>Recent Shipments</h3>
+        <h3>Newest Shipments</h3>
       </div>
       <div className="table-scroll">
         <table className="shipment-table">
