@@ -1,6 +1,6 @@
 # Agua, Inc. - Shipments and Transit Dashboard
 
-A modern, responsive dashboard for tracking shipments and loads around the world.
+A responsive dashboard for tracking shipments and loads around the world.
 
 ## Features
 
@@ -8,16 +8,6 @@ A modern, responsive dashboard for tracking shipments and loads around the world
 - **Summary Cards**: Key metrics including total shipments, cost, average weight, and in-transit count
 - **Shipments Table**: Detailed view of recent shipments with status indicators
 - **Interactive Chart**: Visual representation of shipments over time 
-
-## Tech Stack
-
-- **React 18** with functional components and hooks
-- **TypeScript** for type safety
-- **Vite** for fast development and building
-- **Tailwind CSS** for styling
-- **Recharts** for data visualization
-- **Lucide React** for icons
-- **date-fns** for date formatting
 
 ## Getting Started
 
