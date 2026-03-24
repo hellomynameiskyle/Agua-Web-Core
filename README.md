@@ -1,6 +1,8 @@
 # Agua, Inc. - Shipments and Transit Dashboard
 
-A responsive dashboard for tracking shipments and loads around the world.
+A responsive dashboard for Agua employees to track and view shipments data.
+
+![shipments dashboard user interface](src/img/dashboard.png)
 
 ## Features
 
