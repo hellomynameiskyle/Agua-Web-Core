@@ -8,7 +8,6 @@ interface ShipmentsChartProps {
 
 export function ShipmentsChart({ shipments }: ShipmentsChartProps) {
   // Generate chart data for the last 7 days
-  // this is a test commit for the demo :)
   const chartData = Array.from({ length: 7 }, (_, i) => {
     const date = subDays(new Date(), 6 - i);
     const dayShipments = shipments.filter(s =>
