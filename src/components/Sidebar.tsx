@@ -12,7 +12,9 @@ export function Sidebar() {
     <aside className="sidebar">
       <div className="sidebar-top">
         <div>
-          <p className="sidebar-brand">AGUA, INC.</p>
+          <p className="sidebar-brand">
+            AGUA, INC.
+          </p>
         </div>
       </div>
       <nav className="sidebar-nav">
