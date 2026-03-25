@@ -15,6 +15,7 @@ function App() {
   const avgWeight = shipments.reduce((sum, s) => sum + s.weight, 0) / shipments.length;
   const inTransitCount = shipments.filter(s => s.status === 'in-transit').length;
 
+  // todo: maintain state following initial API calls
   return (
     <div className="app-layout">
       <Sidebar />
